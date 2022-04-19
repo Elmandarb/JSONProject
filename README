@@ -1,0 +1,11 @@
+README
+ERIC FLEMING CS 315
+THIS PROJECT TAKES AS INPUT A JSON FILE, PARSES IT TO CREATE AN INTERNAL REPRESENTATION,
+PERFORMS STATISTICAL FUNCTIONS ON THE DATA, AND PRINTS THE DATA EITHER IN A JSON OR CSV
+FORMAT.
+
+
+AAPL SHEET: https://docs.google.com/spreadsheets/d/1VEzY6r2_20Kg1HA5NhRDM9qlp763BvYj-I3p9lRzof8/edit?usp=sharing
+AMD SHEET: https://docs.google.com/spreadsheets/d/1Dl78HMku_DBsVecs9-gS51yiUarz_HCRTKDC7qNvrS0/edit?usp=sharing
+NVDA SHEET: https://docs.google.com/spreadsheets/d/1xyqwRGI03OM0rmSSB9PyjPwODQz9C4BlKtXhz3cv474/edit?usp=sharing
+TSLA SHEET: https://docs.google.com/spreadsheets/d/1kqEHUx2i7c5Ffczq0K2vpTMUvHVn7X4ZpE3SHGG6dC0/edit?usp=sharing
